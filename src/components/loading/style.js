@@ -3,5 +3,5 @@ import styled from "styled-components";
 export const Body = styled.div`
    display: flex;
    flex-direction: column;
-   margin: 0px auto;
+   margin: 0 auto;
 `;
